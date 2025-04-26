@@ -1,1 +1,44 @@
-This project is in prototype development. It is testing and non-commerical. Hence Policy will be established and provided later.
+TEffective Date: April 26, 2025
+
+Introduction
+
+CreatorCash AI is a non-commercial prototype developed to analyze public social media data (e.g., posts, trends) to assist content creators. This Privacy Policy outlines how we collect, use, and protect data in compliance with applicable laws (e.g., GDPR, CCPA).
+
+Data Collection
+
+We collect:
+
+Public Social Media Data: Public posts, hashtags, and comments from platforms like TikTok and X, accessed via their APIs for trend and feedback analysis.
+User-Provided Data: Feedback from our 20 test users (e.g., survey responses), if voluntarily submitted.
+No personal data (e.g., names, emails) is collected from social media users unless publicly shared in posts.
+Data Use
+
+We use data to:
+
+Analyze trends and sentiment using AI (LangChain) to generate insights for test users.
+Improve the prototype based on user feedback.
+Data is not used for advertising, profiling, or commercial purposes during this phase.
+Data Sharing
+
+We do not share data with third parties, except:
+
+With API providers (TikTok, X) as required for compliance.
+If legally obligated (e.g., court order).
+Public data remains publicly accessible per platform policies.
+Data Storage and Security
+
+Data is processed in memory and not stored long-term. API keys are securely stored (encrypted). We use industry-standard measures to prevent unauthorized access but cannot guarantee absolute security.
+
+User Rights
+
+Test users may request access to or deletion of their feedback by contacting [zhao401@gmail.com]. Public social media data is governed by platform policies.
+
+Changes
+
+We may update this policy, with changes posted at [your URL, e.g., github.com/yourusername/creatorcash-ai].
+
+Contact
+
+Email [zhao401@gmail.com] with questions.
+
+Last Updated: April 26, 2025
